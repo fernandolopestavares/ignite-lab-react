@@ -1,16 +1,16 @@
-# ignite-lab-react
+# Ignite Lab React by Rocketseat
 Plataforma de evento desenvolvida com React JS no Ignite Lab.
 
-## Stack
+## Stacks
 -  [ ] React
 -  [ ] Typescript
 -  [ ] Tailwind CSS
--  [ ] Headless CMS (Content Management System) com graphcms
+-  [ ] [Headless CMS (Content Management System)com graphcms](https://graphcms.com/)
 -  [ ] @apollo/client and Graphql
--  [ ] svg2jsx para gerar um componente SVG (https://svg2jsx.com/)
--  [ ] Phosphor icon family (https://phosphoricons.com/)
+-  [ ] [svg2jsx](https://svg2jsx.com) para gerar um componente SVG
+-  [ ] [Phosphor Icons](https://phosphoricons.com/)
 -  [ ] Lib classnames
--  [ ] Graphql-code-generator (https://www.graphql-code-generator.com/docs/getting-startedinstallation
+-  [ ] [Graphql-code-generator](https://www.graphql-code-generator.com/docs/getting-startedinstallation)
 
 ## Layout
 
